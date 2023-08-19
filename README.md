@@ -35,6 +35,8 @@ Click the link to watch the youtube tutorial.
 
   ## Screen Recording
 
+https://github.com/zbichsel/tutorial-about-me/assets/136612956/0a2f3c08-6146-45ba-b307-0beea7194787
+
   ## Questions
 
   If you have any questions, feel free to reach me at [GitHub](https://github.com/zbichsel) or via email at [biksel09@gmail.com](biksel09@gmail.com).
